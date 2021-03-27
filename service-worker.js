@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.aa9a62127e8d7d69f585a6888326d752.js"
+  "/pages-showcase/precache-manifest.5f93b3e405994b8dca040158c2c80cf9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tinus-landing"});
