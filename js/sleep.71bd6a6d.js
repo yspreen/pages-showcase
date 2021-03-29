@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["sleep"],{"36d9":function(e,n,t){"use strict";t.r(n);var c=t("7a23"),s={class:"about"},o=Object(c["h"])("h1",null,"Sleep",-1);function u(e,n){return Object(c["q"])(),Object(c["e"])("div",s,[o])}const a={};a.render=u;n["default"]=a}}]);
-//# sourceMappingURL=sleep.71bd6a6d.js.map
