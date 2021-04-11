@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["tinnitus"],{"10ec":function(n,t,c){"use strict";c.r(t);var e=c("7a23"),u={class:"about"},i=Object(e["j"])("h1",null,"Tinnitus",-1);function s(n,t){return Object(e["u"])(),Object(e["f"])("div",u,[i])}const o={};o.render=s;t["default"]=o}}]);
+//# sourceMappingURL=tinnitus.10f87d18.js.map
